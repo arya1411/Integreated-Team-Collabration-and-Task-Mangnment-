@@ -1,4 +1,4 @@
-# Task Manager (MERN Stack)
+# Task Manager
 
 A full-stack task management application built with **MongoDB, Express, React, and Node.js**.
 It supports authentication, role-aware task operations, dashboards, checklist progress tracking, image uploads, and Excel report exports.
