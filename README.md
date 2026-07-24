@@ -70,7 +70,6 @@ This project is organized into two top-level apps:
 - Axios
 - Tailwind CSS 4
 - Recharts
-- React Toastify
 
 ### Backend
 
